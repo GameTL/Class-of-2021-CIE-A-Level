@@ -1,0 +1,5 @@
+my_binary = str()
+input_denary = int(input("enter your denary number to be converted pls"))
+for i in input_denary:
+    divided = input_denary/2
+    print divided
